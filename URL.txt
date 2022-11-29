@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/SilvrrGIT/IP-Lists/master/shodan
+https://secureupdates.checkpoint.com/IP-list/TOR.txt
+https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-nodes.lst
+https://www.usom.gov.tr/url-list.txt
