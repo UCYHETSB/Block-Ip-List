@@ -794,7 +794,6 @@ jikoxaz.com
 kizuho.com
 jenupe.com
 aliamunger.com
-.top/
 m3.wtf
 pwn.af
 rce.ee
@@ -804,9 +803,7 @@ burpcollaborator.net
 canarytokens.com
 dnslog.cn
 requestbin.net
-.buzz/
 scanworld.net
-.ninja/
 jbfrost.live
 leosoko.com
 grizmit.com
