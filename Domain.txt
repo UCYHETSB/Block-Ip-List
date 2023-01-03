@@ -694,7 +694,6 @@ safe-onet.space
 liralveget.co.uk
 joxinu.com
 arhaldar.online
-api.sec-tunnel.com
 sitecheck2.opera.com
 sign-in-inbox.site
 qamst.com
@@ -723,7 +722,6 @@ api.psi.cash
 storyfull.net
 bip.com
 acdn.adnxs.com
-sec-tunnel.com
 iptv4web.net
 1drv.com
 driverscollection.com
